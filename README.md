@@ -176,7 +176,9 @@ This section builds **real state management intuition**.
 - Masonry layout
 - Debugging techniques
 
-Project: `angular-gif-app`
+[Project: Angular Gif App](https://github.com/CristianSifuentes/GifsApp_)
+
+
 
 ---
 
@@ -210,7 +212,7 @@ Goal: **Make the application fully functional**.
 - Router configuration
 - Debounce strategies
 
-Project: `angular-country-app`
+[Project: Angular Country App](https://github.com/CristianSifuentes/CountrySPA)
 
 ---
 
@@ -239,7 +241,8 @@ Internationalization configuration included.
 
 Final result: **dynamic table powered by pipes**.
 
-Project: `angular-pipes-app`
+
+[Project: Angular Pipes App](https://github.com/CristianSifuentes/AngularPipes_)
 
 ---
 
@@ -266,7 +269,9 @@ Project: `angular-pipes-app`
 - Cleanup strategies
 - RxJS operators
 
-Project: `angular-reactive-forms`
+[Project: Angular Reactive Forms](https://github.com/CristianSifuentes/AngularReactiveForms_)
+
+
 
 ---
 
@@ -276,7 +281,7 @@ Project: `angular-reactive-forms`
 - Signal‑based lifecycle hooks
 - Input change lifecycle
 
-Project: `angular-lifecycle`
+[Project: Angular Lifecycle](https://github.com/CristianSifuentes/AngularLifecycle_.git)
 
 ---
 
@@ -289,7 +294,9 @@ Project: `angular-lifecycle`
 - Node scripts
 - Deployments
 
-Project: `angular-maps-app`
+[Project: Angular Maps](https://github.com/CristianSifuentes/AngularMaps_)
+
+
 
 ---
 
@@ -348,7 +355,8 @@ Used later in admin panels.
 - RxJS operators
 - Deployments (NeonTech, Render, Netlify)
 
-Project: `angular-tesloshop`
+[Project: Angular Tesloshop](https://github.com/CristianSifuentes/TesloShopAngular_)
+
 
 ---
 
