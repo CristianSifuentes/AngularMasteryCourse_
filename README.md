@@ -92,6 +92,9 @@ A high‑level introduction to the course philosophy, tools, and expectations.
 
 💡 *We also work indirectly with Vite to understand modern tooling.*
 
+
+[Project: Angular Introduccion Typescript](https://github.com/CristianSifuentes/AngularIntroduccionTypescript_)
+
 ---
 
 ## Section 4 – Angular Fundamentals
@@ -125,6 +128,9 @@ A deeper dive into real Angular usage:
 - linkedSignal
 - HashRouter
 - Deployments
+
+[Project: Angular Fundamentals](https://github.com/CristianSifuentes/ng-initiate)
+
 
 ---
 
