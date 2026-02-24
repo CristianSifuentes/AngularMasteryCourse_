@@ -396,3 +396,6 @@ At this point, you will:
 Full‑Stack Developer · Angular Specialist · Architecture Enthusiast
 
 ---
+
+## Links
+https://certificates.dev/angular
